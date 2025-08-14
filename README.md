@@ -29,9 +29,9 @@ Keyboard-Free: Fully clickable buttons – ideal for mobile or mouse use.
 <br><br>
 🛠️ Technologies Used
 <br><br>
-HTML5 – Structure and layout of the calculator.
+HTML – Structure and layout of the calculator.
 <br><br>
-CSS3 – Styling, colors, and button layout.
+CSS – Styling, colors, and button layout.
 <br><br>
 JavaScript – Logic for calculations, display updates, and button events.
 <br><br>
@@ -62,23 +62,6 @@ Updating the display dynamically.
 Handling special buttons (C and =).
 <br>
 Using eval() (or alternative parsing) for calculating expressions.
-<br><br>
-🚀 Installation & Setup
-<br><br>
-Download / Clone the Repository
-<br><br>
-git clone https://github.com/yourusername/calculator.git
-<br><br>
-Navigate to the Project Folder
-<br><br>
-cd calculator
-<br>
-<br>
-Open in Browser
-<br><br>
-Simply double-click index.html or open it using:
-<br>
-Right-click → Open With → Browser
 <br><br>
 📖 Usage Instructions
 <br><br>
